@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kim-seonkyu/react-tictactoe-app.git/static/css/main.84d853de.css",
-    "main.js": "/kim-seonkyu/react-tictactoe-app.git/static/js/main.47a33278.js",
-    "static/js/787.b66e7712.chunk.js": "/kim-seonkyu/react-tictactoe-app.git/static/js/787.b66e7712.chunk.js",
-    "index.html": "/kim-seonkyu/react-tictactoe-app.git/index.html",
-    "main.84d853de.css.map": "/kim-seonkyu/react-tictactoe-app.git/static/css/main.84d853de.css.map",
-    "main.47a33278.js.map": "/kim-seonkyu/react-tictactoe-app.git/static/js/main.47a33278.js.map",
-    "787.b66e7712.chunk.js.map": "/kim-seonkyu/react-tictactoe-app.git/static/js/787.b66e7712.chunk.js.map"
+    "main.css": "/kim-seonkyu/react-tictactoe-app/static/css/main.84d853de.css",
+    "main.js": "/kim-seonkyu/react-tictactoe-app/static/js/main.6c7170f8.js",
+    "static/js/787.b66e7712.chunk.js": "/kim-seonkyu/react-tictactoe-app/static/js/787.b66e7712.chunk.js",
+    "index.html": "/kim-seonkyu/react-tictactoe-app/index.html",
+    "main.84d853de.css.map": "/kim-seonkyu/react-tictactoe-app/static/css/main.84d853de.css.map",
+    "main.6c7170f8.js.map": "/kim-seonkyu/react-tictactoe-app/static/js/main.6c7170f8.js.map",
+    "787.b66e7712.chunk.js.map": "/kim-seonkyu/react-tictactoe-app/static/js/787.b66e7712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84d853de.css",
-    "static/js/main.47a33278.js"
+    "static/js/main.6c7170f8.js"
   ]
 }
