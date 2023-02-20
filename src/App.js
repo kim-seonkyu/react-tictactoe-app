@@ -79,7 +79,7 @@ function App() {
         </div>
         <div className="game-info">
           <div className="status">{status}</div>
-          <ul>{moves}</ul>
+          <ul style={{ listStyle: "none" }}>{moves}</ul>
         </div>
       </div>
     </div>
